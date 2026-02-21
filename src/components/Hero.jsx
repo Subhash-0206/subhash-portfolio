@@ -30,7 +30,7 @@ export default function Hero() {
             onError={() => setImgError(true)}
           />
           <figcaption className="hero-photo-label">
-            {imgError ? 'Add your picture (profile.jpg in public folder)' : 'Your photo'}
+            {imgError ? 'Add your picture (profile.jpg in public folder)' : ''}
           </figcaption>
         </figure>
       </div>
