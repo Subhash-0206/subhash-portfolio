@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <circle cx="100" cy="100" r="100" fill="#1e293b"/>
+  <circle cx="100" cy="82" r="32" fill="#475569"/>
+  <ellipse cx="100" cy="165" rx="55" ry="42" fill="#475569"/>
+  <text x="100" y="108" font-family="system-ui,sans-serif" font-size="11" fill="#64748b" text-anchor="middle">Your photo</text>
+</svg>

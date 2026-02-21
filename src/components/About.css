@@ -1,0 +1,10 @@
+.about-content p {
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+  max-width: 680px;
+}
+
+.about-content strong {
+  color: var(--text);
+  font-weight: 600;
+}
