@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="container footer-inner">
-        <p>© {year} Subhash M. Senior Software Engineer.</p>
+        <p>© {year} Subhashchandra Muchchunoor. Senior Software Engineer.</p>
         <p className="footer-tagline">Built with React</p>
       </div>
     </footer>
