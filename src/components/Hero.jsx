@@ -11,7 +11,7 @@ export default function Hero() {
         <div className="hero-content">
           <p className="hero-label">Senior Software Engineer</p>
           <h1 className="hero-title">
-            Hi, I'm <span className="highlight">Subhash M</span>
+            Hi, I'm <span className="highlight">Subhashchandra Muchchunoor</span>
           </h1>
           <p className="hero-tagline">
             Building high-performance microservices, REST APIs, and enterprise applications
