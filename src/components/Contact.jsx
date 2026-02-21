@@ -13,9 +13,9 @@ export default function Contact() {
             <span className="contact-label">Phone</span>
             <span className="contact-value">+1-806-805-1501</span>
           </a>
-          <a href="mailto:subhash.muchch@outlook.com" className="contact-item">
+          <a href="mailto:subhash.muchch@gmail.com" className="contact-item">
             <span className="contact-label">Email</span>
-            <span className="contact-value">subhash.muchch@outlook.com</span>
+            <span className="contact-value">subhash.muchch@gmail.com</span>
           </a>
           <a
             href="https://linkedin.com/in/subhash-muchchunoor"
